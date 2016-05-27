@@ -1,4 +1,4 @@
-## Example for Node.js and Redis in Docker
+## Example using Node.js and Redis in Docker
 
 ---
 
@@ -27,3 +27,13 @@ docker logs node-redis-docker
 ```
 
 ![image](https://github.com/kevingo/node-redis-docker/raw/master/screenshot/docker-logs.png)
+
+#### 5. Using Docker-Compose
+
+You can also check the result by using docker-compose
+
+```
+docker-compose up
+```
+![image](https://github.com/kevingo/node-redis-docker/raw/master/screenshot/docker-compose.png)
+
