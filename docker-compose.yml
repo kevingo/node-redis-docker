@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+ redis:
+  image: kevingo/redis
+ node:
+  build: .
+  links:
+   - redis:redis
