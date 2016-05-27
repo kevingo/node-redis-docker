@@ -26,4 +26,4 @@ docker run -d --name node-redis-docker --link redis:redis node-redis-docker
 docker logs node-redis-docker
 ```
 
-![image](http://github.com/kevingo/node-redis-docker/raw/master/screenshot/docker-logs.png)
+![image](https://github.com/kevingo/node-redis-docker/raw/master/screenshot/docker-logs.png)
