@@ -4,7 +4,7 @@
 
 This is sample Node.js example used for testing connection with Redis server with Docker.
 
-### 1. Please Start Redis Server :
+### 1. Please Prepare your Redis Server with this step :
 
 - [Docker Redis](https://github.com/kevingo/docker-redis)
 
